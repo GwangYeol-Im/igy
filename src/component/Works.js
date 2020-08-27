@@ -7,7 +7,7 @@ const projectList = [
     features: "Real time checker / To-do list / Weather",
     tools: "Vanilla JS",
     introduction:
-      "Momentum은 순수 JavaScript로 설계 되었으며, 실시간으로 데이터를 받아 기온을 표시하고 유저의 정보를 입력하면 브라우저에 이름과 투두를 저장할 수 있는 앱입니다.",
+      "Momentum은 Vanilla JS로 설계 되어 실시간으로 데이터를 받아 기온을 표시하고 유저의 정보 입력시 브라우저 상단에 이름과 To-Do를 저장하는 앱입니다.",
     link: "https://gwangyeol-im.github.io/IGY_todolist/"
   },
   { id: 2 },

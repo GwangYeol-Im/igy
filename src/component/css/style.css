@@ -26,7 +26,7 @@
   --font-semi-large: 3.6vw;
   --font-medium: 2.6vw;
   --font-regular: 1.62vw;
-  --font-small: 1.4vw;
+  --font-small: 1.45vw;
   --font-micro: 1.3vw;
 
   /* Font weight */
@@ -382,7 +382,7 @@ p {
 }
 
 .career__period {
-  font-size: var(--font-micro);
+  font-size: var(--font-small);
 }
 
 /* Skills */
