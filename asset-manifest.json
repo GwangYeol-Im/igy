@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/igy/static/css/main.5f361e03.chunk.css",
-    "main.js": "/igy/static/js/main.2939b4bc.chunk.js",
-    "main.js.map": "/igy/static/js/main.2939b4bc.chunk.js.map",
+    "main.css": "/igy/static/css/main.7f691277.chunk.css",
+    "main.js": "/igy/static/js/main.9fa30de1.chunk.js",
+    "main.js.map": "/igy/static/js/main.9fa30de1.chunk.js.map",
     "runtime-main.js": "/igy/static/js/runtime-main.1e9a1120.js",
     "runtime-main.js.map": "/igy/static/js/runtime-main.1e9a1120.js.map",
-    "static/js/2.be7bc7ca.chunk.js": "/igy/static/js/2.be7bc7ca.chunk.js",
-    "static/js/2.be7bc7ca.chunk.js.map": "/igy/static/js/2.be7bc7ca.chunk.js.map",
+    "static/js/2.6a11f57b.chunk.js": "/igy/static/js/2.6a11f57b.chunk.js",
+    "static/js/2.6a11f57b.chunk.js.map": "/igy/static/js/2.6a11f57b.chunk.js.map",
     "index.html": "/igy/index.html",
-    "precache-manifest.994fab8b49f94509e307995c02673aa3.js": "/igy/precache-manifest.994fab8b49f94509e307995c02673aa3.js",
+    "precache-manifest.6e70bc3ed87a00163bd0d4b5a133c4ab.js": "/igy/precache-manifest.6e70bc3ed87a00163bd0d4b5a133c4ab.js",
     "service-worker.js": "/igy/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/igy/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.be7bc7ca.chunk.js.LICENSE.txt": "/igy/static/js/2.be7bc7ca.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/igy/static/media/logo.5d5d9eef.svg"
+    "static/css/main.7f691277.chunk.css.map": "/igy/static/css/main.7f691277.chunk.css.map",
+    "static/js/2.6a11f57b.chunk.js.LICENSE.txt": "/igy/static/js/2.6a11f57b.chunk.js.LICENSE.txt",
+    "static/media/album profile.jpg": "/igy/static/media/album profile.66734a8b.jpg",
+    "static/media/album.jpg": "/igy/static/media/album.970a6662.jpg",
+    "static/media/bg-momentum.png": "/igy/static/media/bg-momentum.fb738df2.png",
+    "static/media/bg.png": "/igy/static/media/bg.1d0b4330.png",
+    "static/media/coming.png": "/igy/static/media/coming.6cd9849f.png",
+    "static/media/logo42.png": "/igy/static/media/logo42.371102a3.png",
+    "static/media/mixtape.jpg": "/igy/static/media/mixtape.dbf381f8.jpg",
+    "static/media/momentum.png": "/igy/static/media/momentum.c35b480f.png",
+    "static/media/polyTechLogo.png": "/igy/static/media/polyTechLogo.62e15950.png",
+    "static/media/profile.JPG": "/igy/static/media/profile.e82e013c.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.1e9a1120.js",
-    "static/js/2.be7bc7ca.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2939b4bc.chunk.js"
+    "static/js/2.6a11f57b.chunk.js",
+    "static/css/main.7f691277.chunk.css",
+    "static/js/main.9fa30de1.chunk.js"
   ]
 }
